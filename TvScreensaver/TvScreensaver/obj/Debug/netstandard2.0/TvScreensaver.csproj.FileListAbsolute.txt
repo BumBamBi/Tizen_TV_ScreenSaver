@@ -1,0 +1,12 @@
+C:\lkw\visual_studio\Mobile_SW\TvScreensaver\TvScreensaver\TvScreensaver\obj\Debug\netstandard2.0\TvScreensaver.csprojAssemblyReference.cache
+C:\lkw\visual_studio\Mobile_SW\TvScreensaver\TvScreensaver\TvScreensaver\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\lkw\visual_studio\Mobile_SW\TvScreensaver\TvScreensaver\TvScreensaver\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\lkw\visual_studio\Mobile_SW\TvScreensaver\TvScreensaver\TvScreensaver\obj\Debug\netstandard2.0\TvScreensaver.AssemblyInfoInputs.cache
+C:\lkw\visual_studio\Mobile_SW\TvScreensaver\TvScreensaver\TvScreensaver\obj\Debug\netstandard2.0\TvScreensaver.AssemblyInfo.cs
+C:\lkw\visual_studio\Mobile_SW\TvScreensaver\TvScreensaver\TvScreensaver\obj\Debug\netstandard2.0\TvScreensaver.csproj.CoreCompileInputs.cache
+C:\lkw\visual_studio\Mobile_SW\TvScreensaver\TvScreensaver\TvScreensaver\bin\Debug\netstandard2.0\TvScreensaver.deps.json
+C:\lkw\visual_studio\Mobile_SW\TvScreensaver\TvScreensaver\TvScreensaver\bin\Debug\netstandard2.0\TvScreensaver.dll
+C:\lkw\visual_studio\Mobile_SW\TvScreensaver\TvScreensaver\TvScreensaver\bin\Debug\netstandard2.0\TvScreensaver.pdb
+C:\lkw\visual_studio\Mobile_SW\TvScreensaver\TvScreensaver\TvScreensaver\obj\Debug\netstandard2.0\XamlC.stamp
+C:\lkw\visual_studio\Mobile_SW\TvScreensaver\TvScreensaver\TvScreensaver\obj\Debug\netstandard2.0\TvScreensaver.dll
+C:\lkw\visual_studio\Mobile_SW\TvScreensaver\TvScreensaver\TvScreensaver\obj\Debug\netstandard2.0\TvScreensaver.pdb

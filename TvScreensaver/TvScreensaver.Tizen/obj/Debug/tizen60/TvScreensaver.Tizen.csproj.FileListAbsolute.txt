@@ -1,0 +1,13 @@
+C:\lkw\visual_studio\Mobile_SW\TvScreensaver\TvScreensaver\TvScreensaver.Tizen\obj\Debug\tizen60\TvScreensaver.Tizen.csprojAssemblyReference.cache
+C:\lkw\visual_studio\Mobile_SW\TvScreensaver\TvScreensaver\TvScreensaver.Tizen\obj\Debug\tizen60\TvScreensaver.Tizen.AssemblyInfoInputs.cache
+C:\lkw\visual_studio\Mobile_SW\TvScreensaver\TvScreensaver\TvScreensaver.Tizen\obj\Debug\tizen60\TvScreensaver.Tizen.AssemblyInfo.cs
+C:\lkw\visual_studio\Mobile_SW\TvScreensaver\TvScreensaver\TvScreensaver.Tizen\obj\Debug\tizen60\TvScreensaver.Tizen.csproj.CoreCompileInputs.cache
+C:\lkw\visual_studio\Mobile_SW\TvScreensaver\TvScreensaver\TvScreensaver.Tizen\bin\Debug\tizen60\TvScreensaver.Tizen.deps.json
+C:\lkw\visual_studio\Mobile_SW\TvScreensaver\TvScreensaver\TvScreensaver.Tizen\bin\Debug\tizen60\TvScreensaver.Tizen.dll
+C:\lkw\visual_studio\Mobile_SW\TvScreensaver\TvScreensaver\TvScreensaver.Tizen\bin\Debug\tizen60\TvScreensaver.Tizen.pdb
+C:\lkw\visual_studio\Mobile_SW\TvScreensaver\TvScreensaver\TvScreensaver.Tizen\bin\Debug\tizen60\TvScreensaver.dll
+C:\lkw\visual_studio\Mobile_SW\TvScreensaver\TvScreensaver\TvScreensaver.Tizen\bin\Debug\tizen60\TvScreensaver.pdb
+C:\lkw\visual_studio\Mobile_SW\TvScreensaver\TvScreensaver\TvScreensaver.Tizen\obj\Debug\tizen60\XamlC.stamp
+C:\lkw\visual_studio\Mobile_SW\TvScreensaver\TvScreensaver\TvScreensaver.Tizen\obj\Debug\tizen60\TvScreensaver.Tizen.csproj.CopyComplete
+C:\lkw\visual_studio\Mobile_SW\TvScreensaver\TvScreensaver\TvScreensaver.Tizen\obj\Debug\tizen60\TvScreensaver.Tizen.dll
+C:\lkw\visual_studio\Mobile_SW\TvScreensaver\TvScreensaver\TvScreensaver.Tizen\obj\Debug\tizen60\TvScreensaver.Tizen.pdb

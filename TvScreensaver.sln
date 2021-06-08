@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TvScreensaver", "TvScreensaver\TvScreensaver\TvScreensaver.csproj", "{35D109AB-7336-4C1F-950A-95DD029A5E04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TvScreensaver.Tizen", "TvScreensaver\TvScreensaver.Tizen\TvScreensaver.Tizen.csproj", "{46B92812-0955-4632-AB10-5692084BB962}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35D109AB-7336-4C1F-950A-95DD029A5E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D109AB-7336-4C1F-950A-95DD029A5E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D109AB-7336-4C1F-950A-95DD029A5E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D109AB-7336-4C1F-950A-95DD029A5E04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46B92812-0955-4632-AB10-5692084BB962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B92812-0955-4632-AB10-5692084BB962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B92812-0955-4632-AB10-5692084BB962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B92812-0955-4632-AB10-5692084BB962}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9C2F262-84E8-44E6-9CD5-CA7C3BE4ABC2}
+	EndGlobalSection
+EndGlobal

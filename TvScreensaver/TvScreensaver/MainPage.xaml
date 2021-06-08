@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TvScreensaver.MainPage">
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            <Image
+                x:Name="w0"
+                Source="w0.png"
+                Opacity="0"
+                AbsoluteLayout.LayoutBounds="0,0,1920,1080"/>
+            <Image
+                x:Name="w1"
+                Source="w1.png"
+                Opacity="0"
+                AbsoluteLayout.LayoutBounds="0,0,1920,1080"/>
+            <Image
+                x:Name="w2"
+                Source="w2.png"
+                Opacity="0"
+                AbsoluteLayout.LayoutBounds="0,0,1920,1080"/>
+            <Image
+                x:Name="w3"
+                Source="w3.png"
+                Opacity="0"
+                AbsoluteLayout.LayoutBounds="0,0,1920,1080"/>
+            <Image
+                x:Name="w4"
+                Source="w4.png"
+                Opacity="0"
+                AbsoluteLayout.LayoutBounds="0,0,1920,1080"/>
+            <Image
+                x:Name="w5"
+                Source="w5.png"
+                Opacity="0"
+                AbsoluteLayout.LayoutBounds="0,0,1920,1080"/>
+            <Image
+                x:Name="w6"
+                Source="w6.png"
+                Opacity="0"
+                AbsoluteLayout.LayoutBounds="0,0,1920,1080"/>
+
+            <Image
+                x:Name="hour_hand"
+                Source="hour.png"
+                Opacity="0.5"
+                AbsoluteLayout.LayoutBounds="0,0,1920,1080"/>
+            <Image
+                x:Name="minute_hand"
+                Source="minute.png"
+                Opacity="0.5"
+                AbsoluteLayout.LayoutBounds="0,0,1920,1080"/>
+            <Image
+                x:Name="sec_hand"
+                Source="second.png"
+                Opacity="0.5"
+                AbsoluteLayout.LayoutBounds="0,0,1920,1080"/>
+
+            
+            <Label 
+                x:Name="dateYMD"
+                Text="YEAR MONTH DAY"
+                TextColor="White"
+                FontSize="150"
+                AbsoluteLayout.LayoutBounds="650,700,1920,1080"/>
+            <Label 
+                x:Name="dateHM"
+                Text="HH    MM"
+                TextColor="White"
+                FontSize="200"
+                AbsoluteLayout.LayoutBounds="750,440,1920,1080"/>
+            <Label 
+                x:Name="dateS"
+                Text="SS"
+                TextColor="White"
+                FontSize="150"
+                AbsoluteLayout.LayoutBounds="1180,400,1920,1080"/>
+            <Label 
+                x:Name="dateDot"
+                Text=":"
+                TextColor="White"
+                FontSize="240"
+                AbsoluteLayout.LayoutBounds="915,410,1920,1080"/>
+
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>
